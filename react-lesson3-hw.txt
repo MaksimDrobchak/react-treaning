@@ -1,0 +1,25 @@
+ Доработать исходники с урока.
+
+Структура, которую надо реализовать:
+
+App - корневой компонент, хранящий данные
+
+	Cart - корзина, на уроке это было в App
+		
+		Minmax - counter
+			
+			LazyInput - ленивое поле
+			
+	OrderForm - форма с email, phone и именем
+	
+		BootstrapModal - (*) по желанию, модальное окно с просьбой
+			подтвердить, что всё ок или отмена
+			
+	ResultScreen
+	
+Подробности в видео.
+
+1 component -- list with cnt and button next window form name email tel  button to --
+   modal window : SUMM, NAME , EMAIL
+                  BUTTONS:  OK(go to congradulation window )
+                  NO(Stay on this window!)
